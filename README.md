@@ -23,9 +23,7 @@ Projenin amacı, kurumsal firmaların ağ altyapılarını daha etkin bir şek
 Giriş sayfası, kullanıcıların sisteme erişim sağladığı ilk arayüzdür.
 Kullanıcı giriş sayfası, sistemin güvenliğini sağlamak ve sadece yetkili kullanıcıların sisteme erişimini temin etmek amacıyla tasarlanmış bir arayüzdür. Bu sayfa, kullanıcı adı ve şifre bilgilerini girerek doğrulama işlemi yapılmasını sağlar.
 
-<img width="647" alt="image" src="https://github.com/yaseminaslann/NETWORK-MONITORING-AND-MANAGEMENT-WITH-GNS3/assets/96794119/feb4bc44-b923-4b3a-b2d0-88f1ff9fac9e">
-
-<img width="647" alt="image" src="https://github.com/yaseminaslann/NETWORK-MONITORING-AND-MANAGEMENT-WITH-GNS3/assets/96794119/140279c6-28dc-4345-a0d6-e3cbd4c2acae">
+<img width="647" alt="image" src="https://github.com/yaseminaslann/NETWORK-MONITORING-AND-MANAGEMENT-WITH-GNS3/assets/96794119/feb4bc44-b923-4b3a-b2d0-88f1ff9fac9e"> <img width="647" alt="image" src="https://github.com/yaseminaslann/NETWORK-MONITORING-AND-MANAGEMENT-WITH-GNS3/assets/96794119/140279c6-28dc-4345-a0d6-e3cbd4c2acae">
 
 
 **Ağ İzleme Ana Sayfası**:
