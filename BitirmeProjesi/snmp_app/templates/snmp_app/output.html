@@ -1,0 +1,23 @@
+{% extends 'snmp_app/headers.html' %}
+
+{% block homeindex %}
+
+
+{% for data in outputDevices %}
+
+    <div class="row">
+
+        <div class="col border border-primary" style="font-size: 20px;">
+            <pre>{{ data.ip }}</pre>
+        </div>
+
+        <div class="col border border-primary" style="font-size: 20px;">
+            <pre>{{ data.output }}</pre>
+        </div>
+
+    </div>
+
+{% endfor %}
+
+
+{% endblock %}

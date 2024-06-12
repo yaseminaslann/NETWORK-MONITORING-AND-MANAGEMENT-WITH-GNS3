@@ -1,0 +1,197 @@
+.container {
+    width:100%;
+
+}
+
+.imgbox{
+
+    align-items: center;
+    justify-content: center;
+    position:absolute;
+    left: 300px;
+    width: 720px;
+  
+}
+
+.app-ui-screen{
+    position: absolute;
+    left: 415px;
+    top: 100px;
+    width: 405px;
+    height: 310px;
+}
+
+#cform {
+    position: absolute;
+    left: 370px;
+    top: 300px;
+}
+
+.btn {
+    position: absolute;
+    top: 215px;
+    left:10px;
+    width: %60;
+    height: 10px;
+    border:none;
+    }
+
+.btn td {
+  padding-right: 20px;
+  padding-top: 20px;
+}
+
+
+.btn0 {
+    opacity:0;
+
+}
+	
+
+.right-buttons-table{
+    position: absolute;
+    left:370px;
+    top: 200px;
+    width: %60;
+    height: 10px;
+    border:none;
+}
+
+.right-buttons-table td {
+  padding-right: 50px;
+  padding-top: 30px;
+}
+
+
+	
+.right-buttons {
+    padding:-15;
+    margin:-50;
+    opacity:0;
+
+}
+	
+.rightBottom-buttons-table{
+    position: absolute;
+    left:360px;
+    top: 408px;
+    width: %60;
+    height: 10px;
+    border:none;
+}
+
+.rightBottom-buttons-table td {
+  padding: 15px;
+}
+
+
+
+#box-border {
+    position: absolute;
+    margin-left: 200px;
+}
+
+    
+#downTriangle {
+    position: absolute;
+    top: 250px;
+    left:70px;
+    opacity:0;
+}
+
+#top-triangle {
+    position: absolute;
+    top: 190px;
+    left:70px;
+    opacity:0;
+
+}
+
+#left-triangle {
+    position: absolute;
+    top: 220px;
+    left:40px;
+    opacity:0;
+}
+
+#right-triangle {
+    position: absolute;
+    top: 220px;
+    left:100px;
+    opacity:0;
+}
+
+#select-triangle {
+    position: absolute;
+    top: 220px;
+    left:70px;
+    opacity:0;
+}
+	   
+.softkeys-table {
+    position: absolute;
+    left:45px;
+    top: 125px;
+    width: %60;
+    height: 10px;
+    border:none;
+}
+
+.softkeys-table td {
+  padding: 15px;
+
+}
+
+.softkey {
+    opacity:0;
+}
+
+
+
+button:hover {
+    background-color: white;
+    opacity:0.5;
+}
+	
+.box-border:hover{
+		background-color: white;
+  opacity:0.5;
+}
+
+
+#downTriangle:hover {
+    position: absolute;
+    top: 250px;
+    left:70px;
+    opacity:0.5;
+}
+
+#top-triangle:hover {
+    position: absolute;
+    top: 190px;
+    left:70px;
+    opacity:0.5;
+
+}
+
+#left-triangle:hover {
+    position: absolute;
+    top: 220px;
+    left:40px;
+    opacity:0.5;
+}
+
+#right-triangle:hover {
+    position: absolute;
+    top: 220px;
+    left:100px;
+    opacity:0.5;
+}
+
+#select-triangle:hover {
+    position: absolute;
+    top: 220px;
+    left:70px;
+    opacity:0.5;
+}
+	

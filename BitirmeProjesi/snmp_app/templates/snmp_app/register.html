@@ -1,0 +1,32 @@
+{% extends 'snmp_app/headers.html' %}
+
+{% block homeindex %}
+  <form method="POST" action="" style="border:1px solid #ccc">
+      {% csrf_token %}
+    <div class="container">
+      <h1>Kayıt Ol</h1>
+      <hr>
+
+      <label for="name"><b>İsim</b></label>
+      <input type="text" placeholder="İsim" name="name" required>
+
+      <label for="lastname"><b>Soyisim</b></label>
+      <input type="text" placeholder="Soyisim" name="lastname" required>
+
+      <label for="email"><b>Email</b></label>
+      <input type="text" placeholder="E-mail" name="email" required>
+
+      <label for="psw"><b>Password</b></label>
+      <input type="password" placeholder="Şifre" name="psw" required>
+
+      <label for="psw-repeat"><b>Repeat Password</b></label>
+      <input type="password" placeholder="Şifre Tekrar" name="psw-repeat" required>
+
+      <p>Kayıt olarak <a href="#" style="color:dodgerblue">Kullanım Sözleşmesini</a> kabul etmiş olursunuz.</p>
+
+      <div class="clearfix">
+        <button type="submit" class="signupbtn">Kayıt Ol</button>
+      </div>
+    </div>
+  </form>
+{% endblock %}

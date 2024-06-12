@@ -1,0 +1,98 @@
+html {
+  height: 100%;
+}
+
+#bg {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+
+input[type="text"], input[type="password"]{
+  border-radius:8px;
+  border:1px solid white;
+  color:white !important;
+  background:transparent;
+}
+
+#login-error-msg-holder {
+  width: 100%;
+  height: 100%;
+  display: grid;
+  justify-items: center;
+  align-items: center;
+}
+
+#login-error-msg {
+  width: 23%;
+  text-align: center;
+  margin: 0;
+  padding: 5px;
+  font-size: 12px;
+  font-weight: bold;
+  color: #8a0000;
+  border: 1px solid #8a0000;
+  background-color: #e58f8f;
+  opacity: 0;
+}
+
+#error-msg-second-line {
+  display: block;
+}
+
+@password {
+    margin-left: 40px;
+}
+
+#loginform{
+    margin-left:115px;;
+}
+
+
+#main-holder {
+    position:absolute;
+    width:800px;
+    height:400px;
+    padding:100px;
+
+    left: 45%;
+    top: 18%;
+    color:white;
+    transition:0.5s;
+}
+
+
+#main-holder:hover {
+    position:absolute;
+    width:800px;
+    height:400px;
+    padding:100px;
+    backdrop-filter:blur(10px);
+    left: 45%;
+    top: 18%;
+    color:white;
+    box-shadow: 5px 5px 20px black;
+    border-radius: 30px;
+    transition:0.5s;
+}
+
+
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+}
+
+
+.canvas {
+  //cursor: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
