@@ -15,7 +15,8 @@ Projenin amacı, kurumsal firmaların ağ altyapılarını daha etkin bir şek
 
 ## Geliştirilen Ağ Modeli
 
-<img width="382" alt="image" src="https://github.com/yaseminaslann/NETWORK-MONITORING-AND-MANAGEMENT-WITH-GNS3/assets/96794119/7e39de34-a1ce-4e86-b700-654e2e4a6906">
+<img width="565" alt="image" src="https://github.com/yaseminaslann/NETWORK-MONITORING-AND-MANAGEMENT-WITH-GNS3/assets/96794119/44b4784c-2f0f-4ed5-ac92-1090fdbc94be">
+
 
 
 
