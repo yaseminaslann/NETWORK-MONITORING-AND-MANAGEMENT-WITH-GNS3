@@ -24,17 +24,21 @@ Giriş sayfası, kullanıcıların sisteme erişim sağladığı ilk arayüzdür
 Kullanıcı giriş sayfası, sistemin güvenliğini sağlamak ve sadece yetkili kullanıcıların sisteme erişimini temin etmek amacıyla tasarlanmış bir arayüzdür. Bu sayfa, kullanıcı adı ve şifre bilgilerini girerek doğrulama işlemi yapılmasını sağlar.
 
 <img width="595" alt="image" src="https://github.com/yaseminaslann/NETWORK-MONITORING-AND-MANAGEMENT-WITH-GNS3/assets/96794119/feb4bc44-b923-4b3a-b2d0-88f1ff9fac9e">
+
 <img width="605" alt="image" src="https://github.com/yaseminaslann/NETWORK-MONITORING-AND-MANAGEMENT-WITH-GNS3/assets/96794119/140279c6-28dc-4345-a0d6-e3cbd4c2acae">
+
 
 **Ağ İzleme Ana Sayfası**:
 Ana sayfa, kullanıcıların ağın genel durumunu izleyebileceği ve yönetim görevlerini gerçekleştirebileceği merkezi bir noktadır. SNMP ve SSH protokolleri kullanılarak çekilen veriler, ağ yöneticilerine anlık bilgi sağlar ve sorunların hızlı bir şekilde tespit edilmesine yardımcı olur. Kullanıcı dostu arayüz ve grafiksel veri gösterimi, sistemin etkin bir şekilde yönetilmesini ve izlenmesini sağlar.
 
 <img width="632" alt="image" src="https://github.com/yaseminaslann/NETWORK-MONITORING-AND-MANAGEMENT-WITH-GNS3/assets/96794119/9431def3-f63b-4d5c-b0cc-1e425891275f">
 
+
 **Cihaz Yönetim Sayfası**:
 Cihaz yönetim sayfası, kullanıcıların ağ üzerindeki cihazları yönetebildiği ve izleyebildiği bir arayüzdür. Bu sayfa, cihaz ekleme, komut gönderme ve cihazları seçme gibi işlevleri içerir. Kullanıcılar, bu sayfa üzerinden ağdaki cihazlarla etkileşime geçebilir ve yönetim görevlerini gerçekleştirebilir. Komut gönderildikten sonra yeni bir sayfada istenilen veriler gösterilir.
 
 <img width="628" alt="image" src="https://github.com/yaseminaslann/NETWORK-MONITORING-AND-MANAGEMENT-WITH-GNS3/assets/96794119/3cf4f974-1f66-48b3-926f-f3c7662c61b5">
+
 
 **Kayıt Ol Syafası**:
 Bu sayfa, kullanıcıların sisteme eklenmesi gerektiğinde kullanılır ve yalnızca URL üzerinden erişilebilir. Herhangi bir yönlendirme bağlantısı bulunmamaktadır ve doğrudan erişim gerektirir.
